@@ -1,0 +1,48 @@
+.footer {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(134, 42, 238);
+}
+.header__nav {
+    width: 20%;
+    background-color: aquamarine;
+}
+.content__section {
+    width: 20%;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: rgb(181, 231, 200);
+}
+.content_title--primary {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(194, 161, 233);
+}
+.content_text--secondary {
+    width: 50%;
+    margin: 0 auto;
+    padding: 60px;
+    background-color: rgb(243, 145, 194);
+}
+.main__about {
+    width: 30%;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: rgb(46, 41, 43);  
+}
+.main_about__ME {
+    width: 20%;
+    background-color: rgb(179, 247, 223);
+}
+.main_about {
+    width: 100%;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: rgb(243, 142, 182);
+}
+.main_about__ME__img {
+    width: 40%;
+    background-color: rgb(183, 214, 243);
+}
